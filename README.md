@@ -5,14 +5,13 @@ Kodluyoruz (swift) eğitimi kapsamında açtığım ilk repo
 # Installation 
 
 Öncelikle projeyi clonelayın. (https://github.com/silaozcaan/kodluyoruzilkrepo.git) 
-' git clone https://github.com/silaozcaan/kodluyoruzilkrepo.git '
+`git clone https://github.com/silaozcaan/kodluyoruzilkrepo.git`
 
 # Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 Linux için:
-' cd kodluyoruzilkrepo
-    code .'
+`cd kodluyoruzilkrepo  code .`
 
 # Contributing 
 
